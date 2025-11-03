@@ -1,3 +1,5 @@
-Pillow==10.3.0
-reportlab==4.1.0
+Pillow==12.0.0
+reportlab==4.4.0
 pywin32==311
+tkinterdnd2==0.3.0
+pyinstaller==6.16.0
