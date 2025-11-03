@@ -23,6 +23,7 @@
    ```
    python build_exe.py
    ```
+3. ico 파일을 이용해 아이콘 파일을 만들기 위해서, `build.exe.py` 파일 안 command의 --icon 값에 ico 파일 경로를 추가합니다.
 
 ### 3단계: 프로그램 사용
 
